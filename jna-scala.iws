@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b202fed4-6e45-4275-b512-a0dad6ea8f9d" name="Default" comment="Modified Structure.java to work with Scala programs">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/aix-ppc.jar" afterPath="$PROJECT_DIR$/dist/aix-ppc.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/aix-ppc64.jar" afterPath="$PROJECT_DIR$/dist/aix-ppc64.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/android-aarch64.jar" afterPath="$PROJECT_DIR$/dist/android-aarch64.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/android-arm.jar" afterPath="$PROJECT_DIR$/dist/android-arm.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/android-armv7.jar" afterPath="$PROJECT_DIR$/dist/android-armv7.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/android-mips.jar" afterPath="$PROJECT_DIR$/dist/android-mips.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/android-mips64.jar" afterPath="$PROJECT_DIR$/dist/android-mips64.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/android-x86-64.jar" afterPath="$PROJECT_DIR$/dist/android-x86-64.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/android-x86.jar" afterPath="$PROJECT_DIR$/dist/android-x86.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/darwin.jar" afterPath="$PROJECT_DIR$/dist/darwin.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/doc.zip" afterPath="$PROJECT_DIR$/dist/doc.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/freebsd-x86-64.jar" afterPath="$PROJECT_DIR$/dist/freebsd-x86-64.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/freebsd-x86.jar" afterPath="$PROJECT_DIR$/dist/freebsd-x86.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jna-min.jar" afterPath="$PROJECT_DIR$/dist/jna-min.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jna-platform.jar" afterPath="$PROJECT_DIR$/dist/jna-platform.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jna.aar" afterPath="$PROJECT_DIR$/dist/jna.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jna.jar" afterPath="$PROJECT_DIR$/dist/jna.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jnacontrib/demo-alphamask.jar" afterPath="$PROJECT_DIR$/dist/jnacontrib/demo-alphamask.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jnacontrib/demo-balloonmanager.jar" afterPath="$PROJECT_DIR$/dist/jnacontrib/demo-balloonmanager.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jnacontrib/demo-balloontips.jar" afterPath="$PROJECT_DIR$/dist/jnacontrib/demo-balloontips.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jnacontrib/demo-dnd.jar" afterPath="$PROJECT_DIR$/dist/jnacontrib/demo-dnd.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jnacontrib/demo-monitordemo.jar" afterPath="$PROJECT_DIR$/dist/jnacontrib/demo-monitordemo.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jnacontrib/demo-msoffice.jar" afterPath="$PROJECT_DIR$/dist/jnacontrib/demo-msoffice.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jnacontrib/demo-nativewindowmsg.jar" afterPath="$PROJECT_DIR$/dist/jnacontrib/demo-nativewindowmsg.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jnacontrib/demo-shapedwindow.jar" afterPath="$PROJECT_DIR$/dist/jnacontrib/demo-shapedwindow.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jnacontrib/demo-w32keyhook.jar" afterPath="$PROJECT_DIR$/dist/jnacontrib/demo-w32keyhook.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jnacontrib/demo-w32printing.jar" afterPath="$PROJECT_DIR$/dist/jnacontrib/demo-w32printing.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jnacontrib/demo-x11.jar" afterPath="$PROJECT_DIR$/dist/jnacontrib/demo-x11.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/linux-aarch64.jar" afterPath="$PROJECT_DIR$/dist/linux-aarch64.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/linux-arm.jar" afterPath="$PROJECT_DIR$/dist/linux-arm.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/linux-armel.jar" afterPath="$PROJECT_DIR$/dist/linux-armel.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/linux-ppc.jar" afterPath="$PROJECT_DIR$/dist/linux-ppc.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/linux-ppc64le.jar" afterPath="$PROJECT_DIR$/dist/linux-ppc64le.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/linux-x86-64.jar" afterPath="$PROJECT_DIR$/dist/linux-x86-64.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/linux-x86.jar" afterPath="$PROJECT_DIR$/dist/linux-x86.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/src-full.zip" afterPath="$PROJECT_DIR$/dist/src-full.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/src.zip" afterPath="$PROJECT_DIR$/dist/src.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/sunos-sparc.jar" afterPath="$PROJECT_DIR$/dist/sunos-sparc.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/sunos-sparcv9.jar" afterPath="$PROJECT_DIR$/dist/sunos-sparcv9.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/sunos-x86-64.jar" afterPath="$PROJECT_DIR$/dist/sunos-x86-64.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32-x86-64.jar" afterPath="$PROJECT_DIR$/dist/win32-x86-64.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32-x86.jar" afterPath="$PROJECT_DIR$/dist/win32-x86.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/native/linux-x86-64.jar" afterPath="$PROJECT_DIR$/lib/native/linux-x86-64.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jna-scala.ipr" afterPath="$PROJECT_DIR$/jna-scala.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jna-scala.iws" afterPath="$PROJECT_DIR$/jna-scala.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/native/Makefile" afterPath="$PROJECT_DIR$/native/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom-jna-platform.xml" afterPath="$PROJECT_DIR$/pom-jna-platform.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom-jna.xml" afterPath="$PROJECT_DIR$/pom-jna.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/sun/jna/NativeString.java" afterPath="$PROJECT_DIR$/src/com/sun/jna/NativeString.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/sun/jna/Structure.java" afterPath="$PROJECT_DIR$/src/com/sun/jna/Structure.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/sun/jna/Version.java" afterPath="$PROJECT_DIR$/src/com/sun/jna/Version.java" />
-    </list>
+    <list default="true" id="b202fed4-6e45-4275-b512-a0dad6ea8f9d" name="Default" comment="Modified Structure.java to work with Scala programs" />
     <ignored path="$PROJECT_DIR$/contrib/alphamaskdemo/bin/" />
     <ignored path="$PROJECT_DIR$/contrib/balloonmanagerdemo/bin/" />
     <ignored path="$PROJECT_DIR$/contrib/balloontips/bin/" />
@@ -78,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Structure.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Structure.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/sun/jna/Structure.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -90,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NativeString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NativeString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sun/jna/NativeString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -308,6 +256,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="59" width="1804" height="963" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -318,7 +267,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.258248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -424,6 +373,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sun/jna/NativeString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="33" column="7" lean-forward="false" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sun/jna/Structure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -431,14 +388,6 @@
           <folding>
             <element signature="e#0#82380#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sun/jna/NativeString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="33" column="7" lean-forward="false" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
