@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jna-platform" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jna-platform" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom-jna-platform.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/contrib/alphamaskdemo/alphamaskdemo.iml" filepath="$PROJECT_DIR$/contrib/alphamaskdemo/alphamaskdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/balloonmanagerdemo/balloonmanagerdemo.iml" filepath="$PROJECT_DIR$/contrib/balloonmanagerdemo/balloonmanagerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/balloontips/balloontips.iml" filepath="$PROJECT_DIR$/contrib/balloontips/balloontips.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/platform/com.sun.jna.platform.iml" filepath="$PROJECT_DIR$/contrib/platform/com.sun.jna.platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/dnddemo/dnddemo.iml" filepath="$PROJECT_DIR$/contrib/dnddemo/dnddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jna-platform.iml" filepath="$PROJECT_DIR$/jna-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jnalib.iml" filepath="$PROJECT_DIR$/jnalib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/monitordemo/monitordemo.iml" filepath="$PROJECT_DIR$/contrib/monitordemo/monitordemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/msoffice/msoffice.iml" filepath="$PROJECT_DIR$/contrib/msoffice/msoffice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/native_window_msg/native_window_msg.iml" filepath="$PROJECT_DIR$/contrib/native_window_msg/native_window_msg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/ntservice/ntservice.iml" filepath="$PROJECT_DIR$/contrib/ntservice/ntservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/shapedwindowdemo/shapedwindowdemo.iml" filepath="$PROJECT_DIR$/contrib/shapedwindowdemo/shapedwindowdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/w32keyhook/w32keyhook.iml" filepath="$PROJECT_DIR$/contrib/w32keyhook/w32keyhook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/w32printing/win32printing.iml" filepath="$PROJECT_DIR$/contrib/w32printing/win32printing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/www/www.iml" filepath="$PROJECT_DIR$/www/www.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/x11/x11.iml" filepath="$PROJECT_DIR$/contrib/x11/x11.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="Maven: net.java.dev.jna:jna:4.2.0">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.2.0/jna-4.2.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.2.0/jna-4.2.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.2.0/jna-4.2.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

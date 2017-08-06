@@ -17,6 +17,8 @@ While significant attention has been paid to performance, correctness and ease o
 
 In addition, JNA includes a platform library with many native functions already mapped as well as a set of utility interfaces that simplify native access.
 
+This fork of JNA contains modifications to Structure.java to allow for interoperability and use with Scala code.
+
 Projects Using JNA
 ==================
 JNA is a mature library with dozens of contributors and hundreds of commercial and non-commercial projects that use it.  If you're using JNA, feel free to [tell us about it](http://groups.google.com/group/jna-users).  Include some details about your company, project name, purpose and size and tell us how you use the library.
