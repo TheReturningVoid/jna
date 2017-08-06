@@ -158,8 +158,8 @@ public abstract class Structure {
     private boolean readCalled;
 
     private List<Field> scalaFields = null;
-    private Map<String, Method> scalaGetters = new HashMap<>();
-    private Map<String, Method> scalaSetters = new HashMap<>();
+    private Map<String, Method> scalaGetters = new HashMap<String, Method>();
+    private Map<String, Method> scalaSetters = new HashMap<String, Method>();
 
     protected Structure() {
         this(ALIGN_DEFAULT);
@@ -897,7 +897,7 @@ public abstract class Structure {
      * @return ordered list of field names
      */
     protected List<String> getFieldOrder() {
-        List<String> lst = new ArrayList<>();
+        List<String> lst = new ArrayList<String>();
         List<Field> fl = getFieldList();
         for (Object f: fl) {
             String fn = ((Field)f).getName();
@@ -940,12 +940,12 @@ public abstract class Structure {
      */
     protected List<Field> getFieldList() {
         if (scalaFields == null) {
-            List<Field> flist = new ArrayList<>();
-            scalaFields = new ArrayList<>();
+            List<Field> flist = new ArrayList<Field>();
+            scalaFields = new ArrayList<Field>();
             for (Class cls = getClass(); !cls.equals(Structure.class); cls = cls.getSuperclass()) {
                 Field[] fields = cls.getDeclaredFields();
                 Method[] methods = cls.getDeclaredMethods();
-                Map<String, Method> methodNames = new HashMap<>();
+                Map<String, Method> methodNames = new HashMap<String, Method>();
                 for (Method m: methods) methodNames.put(m.getName(), m);
                 for (Field f: fields) {
                     int modifiers = f.getModifiers();

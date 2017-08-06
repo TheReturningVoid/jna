@@ -31,7 +31,7 @@ import java.nio.CharBuffer;
  * @author  Todd Fast, todd.fast@sun.com
  * @author twall@users.sf.net
  */
-class NativeString implements CharSequence, Comparable {
+public class NativeString implements CharSequence, Comparable {
 
     static final String WIDE_STRING = "--WIDE-STRING--";
 
